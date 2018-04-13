@@ -1,0 +1,46 @@
+<b>Trial Prep</b>
+<br>
+Exhibit Preparation:                     
+ <select>
+  <option value="100 Exhibits">100 Exhibits     </option>
+  <option value="500 Exhibits">500 Exhibits     </option>
+  <option value="1000 Exhibit">1000 Exhibits    </option>
+</select> 
+<br>
+Hours for Video Depo Syncing:
+ <select>
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="mercedes">Mercedes</option>
+  <option value="audi">Audi</option>
+</select> 
+<br>
+Video Deposition Editing / Clip Creation:
+ <select>
+  <option value="100 Exhibits">100 Exhibits</option>
+  <option value="500 Exhibits">500 Exhibits</option>
+  <option value="1000 Exhibit">1000 Exhibits</option>
+</select> 
+<input type="text" onkeypress='return event.charCode >= 48 && event.charCode <= 57'>
+</input>
+<br>
+<br>
+<b>Trial Technician</b>
+<br>
+In-Trial Support / Software Operator
+ <select>
+  <option value="DT">Half Day</option>
+  <option value="BH">Full Day</option>
+  <option value="LBC">Week Rate</option>
+  <option value="IRV">Irvine / Pomona / Santa Ana / All Other</option>
+</select> 
+<br>
+<br>
+<b>Equipment Rentals</b>
+<br>Installation Location:
+ <select>
+  <option value="DT">Local - Downtown</option>
+  <option value="BH">Beverly Hills / Santa Monica</option>
+  <option value="LBC">Long Beach / Malibu</option>
+  <option value="IRV">Irvine / Pomona / Santa Ana / All Other</option>
+</select> 
